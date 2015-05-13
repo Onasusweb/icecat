@@ -1,0 +1,57 @@
+<log4j:configuration xmlns:log4j="http://jakarta.apache.org/log4j/">
+	<appender name="CONSOLE" class="org.apache.log4j.ConsoleAppender">
+		<param name="threshold" value="info" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<!-- <param name="ConversionPattern" value="%d %p %C.%M(%L) | %m%n" /> -->
+			<param name="ConversionPattern" value="%d %p [%c] %m%n" />
+		</layout>
+	</appender>
+
+	<appender name="DEBUGFILE" class="org.apache.log4j.RollingFileAppender">
+		<param name="file" value="logs/debug.log" />
+		<param name="immediateFlush" value="true" />
+		<param name="threshold" value="debug" />
+		<param name="append" value="true" />
+		<param name="maxBackupIndex" value="50" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d %p [%c] [%t] %C.%M(%L) | %m%n" />
+		</layout>
+	</appender>
+
+	<appender name="ERRFILE" class="org.apache.log4j.RollingFileAppender">
+		<param name="file" value="logs/err.log" />
+		<param name="immediateFlush" value="true" />
+		<param name="threshold" value="warn" />
+		<param name="append" value="true" />
+		<param name="maxBackupIndex" value="10" />
+		<layout class="org.apache.log4j.PatternLayout">
+			<param name="ConversionPattern" value="%d %p | %m%n" />
+		</layout>
+	</appender>
+
+	<category name="org.apache.http">
+		<level value="info" />
+	</category>
+
+	<category name="org.hibernate">
+		<level value="info" />
+	</category>
+
+	<category name="org.springframework">
+		<level value="info" />
+	</category>
+
+	<category name="net.sf.ehcache">
+		<level value="info" />
+	</category>
+	
+	
+
+
+	<root>
+		<level value="DEBUG" />
+		<appender-ref ref="DEBUGFILE" />
+		<appender-ref ref="ERRFILE" />
+		<appender-ref ref="CONSOLE" />
+	</root>
+</log4j:configuration>

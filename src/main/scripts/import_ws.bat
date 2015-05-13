@@ -1,0 +1,1 @@
+c:\app\jdk7\bin\wsimport -b ../resources/despec/ws/ZCRM_INFO_1.binding -keep -d ../../../target/classes -s ../java -B-no-header -wsdllocation /despec/ws/ZCRM_INFO_1.wsdl ../resources/despec/ws/ZCRM_INFO_1.wsdl

@@ -1,0 +1,11 @@
+<jaxws:bindings xmlns:jaxws="http://java.sun.com/xml/ns/jaxws" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/" xmlns:jaxb="http://java.sun.com/xml/ns/jaxb" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <jaxws:bindings node="wsdl:definitions/wsdl:portType[@name='ZCRM_PRODH']">
+    <jaxws:class name="ZCRM_PRODH_PortType" />
+  </jaxws:bindings>
+  <jaxws:bindings node="wsdl:definitions/wsdl:service[@name='ZCRM_PRODH']">
+    <jaxws:class name="ZCRM_PRODH_Service" />
+  </jaxws:bindings>
+  <!--jaxws:bindings node="wsdl:definitions/wsdl:types/xsd:schema[@targetNamespace='urn:sap-com:document:sap:soap:functions:mc-style']">
+    <jaxws:package name="test"/>
+  </jaxws:bindings-->
+</jaxws:bindings>

@@ -1,0 +1,44 @@
+<jaxb:bindings xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:jaxb="http://java.sun.com/xml/ns/jaxb" jaxb:version="2.0" schemaLocation="ICECAT-interface_response.xsd" >
+
+  <jaxb:globalBindings>
+    <jaxb:serializable uid="1" />
+  </jaxb:globalBindings>
+  
+  <jaxb:bindings node="//xs:complexType[@name='Product']//xs:attribute[@name='EANCode']">
+    <jaxb:property name="EANCodeAttr" />
+  </jaxb:bindings>
+  <jaxb:bindings node="//xs:complexType[@name='Product']//xs:attribute[@name='ID']">
+    <jaxb:property>
+      <jaxb:baseType>
+        <jaxb:javaType name="java.lang.String"/>
+        </jaxb:baseType>
+      </jaxb:property>
+  </jaxb:bindings>
+  <jaxb:bindings node="//xs:complexType[@name='Measure']//xs:attribute[@name='Sign']">
+    <jaxb:property name="SignAttr" />
+  </jaxb:bindings>
+  <jaxb:bindings node="//xs:complexType[@name='ProductFeature']//xs:attribute[@name='Local_Value']">
+    <jaxb:property name="LocalValueAttr" />
+  </jaxb:bindings>
+  <jaxb:bindings node="//xs:complexType[@name='ProductFamily']//xs:attribute[@name='Name']">
+    <jaxb:property name="NameAttr" />
+  </jaxb:bindings>
+  <jaxb:bindings node="//xs:complexType[@name='Sign']//xs:attribute[@name='Value']">
+    <jaxb:property name="ValueAttr" />
+  </jaxb:bindings>
+  <jaxb:bindings node="//xs:complexType[@name='CategoryFeatureGroup']//xs:attribute[@name='FeatureGroup']">
+    <jaxb:property name="FeatureGroupAttr" />
+  </jaxb:bindings>
+  <jaxb:bindings node="//xs:complexType[@name='Name']//xs:attribute[@name='Value']">
+    <jaxb:property name="ValueAttr" />
+  </jaxb:bindings>
+  <jaxb:bindings node="//xs:complexType[@name='Category']//xs:attribute[@name='UNCATID']">
+    <jaxb:property name="UNCATIDAttr" />
+  </jaxb:bindings>
+  <jaxb:bindings node="//xs:complexType[@name='Supplier']//xs:attribute[@name='name']">
+    <jaxb:property name="Name2" />
+  </jaxb:bindings>
+  <jaxb:bindings node="//xs:complexType[@name='Product_related']">
+    <jaxb:class name="ProductRelatedType" />
+  </jaxb:bindings>
+</jaxb:bindings>

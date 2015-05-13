@@ -1,0 +1,548 @@
+{
+  "NETWORKING" : {
+    "ACCESSORIES" : {
+      "Others" : {
+      },
+      "Cables" : {
+      }
+    },
+    "HARDWARE" : {
+      "Access point" : {
+      },
+      "Power Supply" : {
+      },
+      "Controller" : {
+      },
+      "Switches & Transceivers" : {
+        "Switches" : {
+        },
+        "Connectivity Modules" : {
+        },
+        "Routing Switches" : {
+        },
+        "Transceivers" : {
+        }
+      },
+      "Bridge" : {
+      },
+      "Wireless Solutions" : {
+      }
+    },
+    "SERVICES" : {
+      "Services" : {
+      },
+      "License" : {
+      }
+    },
+    "SOFTWARE" : {
+    }
+  },
+  "SYSTEMS" : {
+    "SERVERS" : {
+      "Accessories" : {
+      },
+      "Hardware" : {
+      }
+    },
+    "ACCESSORIES" : {
+      "USB Hubs" : {
+      }
+    },
+    "DISPLAYS" : {
+      "Photo Viewer" : {
+      },
+      "Accessories" : {
+      },
+      "Monitor" : {
+      },
+      "Digital Photo Frame" : {
+      },
+      "LCD TV" : {
+      }
+    },
+    "PERSONAL" : {
+      "Notebook Accessories" : {
+        "Docking Station" : {
+        },
+        "Other" : {
+        },
+        "Cable Lock" : {
+        },
+        "Power Adapters" : {
+        },
+        "Connection Kit" : {
+        },
+        "Bags and Cases" : {
+        }
+      },
+      "Mobile" : {
+        "Notebook" : {
+        }
+      },
+      "Desktop PC Accessories" : {
+        "Power Supply Units" : {
+        }
+      },
+      "Desktop PC" : {
+        "All-in-One with Monitor" : {
+        },
+        "Desktop" : {
+        }
+      }
+    }
+  },
+  "STORAGE" : {
+    "ACCESSORIES" : {
+      "Card Readers" : {
+      },
+      "Case" : {
+      }
+    },
+    "HARDWARE" : {
+      "Solid State Drive SSD" : {
+      },
+      "Hard Disk Drive HDD" : {
+      },
+      "Tape Drive Disk" : {
+      },
+      "Removable Disk Storage" : {
+      },
+      "CD/DVD Duplicator" : {
+      },
+      "CD/DVD" : {
+      }
+    },
+    "SUPPLIES" : {
+      "Paper" : {
+      },
+      "Solid" : {
+        "micro SDHC Card" : {
+        },
+        "SDHC Card" : {
+        },
+        "SD Card" : {
+        },
+        "MMC Card" : {
+        },
+        "Memory Module" : {
+        },
+        "CF Card" : {
+        },
+        "USB Devices" : {
+        },
+        "mini SD Card" : {
+        },
+        "SSD Card" : {
+        },
+        "micro SD Card" : {
+        }
+      },
+      "Magneto-Optical" : {
+        "MO" : {
+        }
+      },
+      "Magnetical" : {
+        "DISKETTES" : {
+        }
+      },
+      "Optical" : {
+        "UDO" : {
+        },
+        "DVD-R" : {
+        },
+        "DVD+RW" : {
+        },
+        "DVD+R" : {
+        },
+        "CD-RW" : {
+        },
+        "CD-R" : {
+        },
+        "DVD-RW" : {
+        },
+        "HDDVD-R" : {
+        },
+        "BD-R" : {
+        },
+        "DVD-RAM" : {
+        },
+        "CD-R AUDIO" : {
+        },
+        "BD-RE" : {
+        }
+      },
+      "Tape" : {
+        "Cleaning Tape" : {
+        },
+        "Data Tape" : {
+        },
+        "RDXCartridge" : {
+        },
+        "Digital Video Cassette" : {
+        }
+      }
+    }
+  },
+  "STATIONERY" : {
+    "HARDWARE" : {
+      "Calculator" : {
+        "Handheld" : {
+        },
+        "Programmable" : {
+        },
+        "Printing" : {
+          "Thermal" : {
+          },
+          "Ink Ribbon" : {
+          },
+          "Bubble Jet" : {
+          },
+          "Ink Roller" : {
+          }
+        },
+        "Graphic" : {
+        },
+        "Desk" : {
+        },
+        "Scientific" : {
+        }
+      }
+    }
+  },
+  "COMMUNICATIONS" : {
+    "ACCESSORIES" : {
+      "Power Adapters" : {
+      },
+      "Charger" : {
+      }
+    },
+    "HARDWARE" : {
+      "Phones" : {
+        "Telephone" : {
+          "DECT" : {
+          },
+          "Analogue" : {
+          }
+        },
+        "Mobile" : {
+        }
+      },
+      "Telephone Exchange" : {
+      },
+      "Fax" : {
+        "Thermal" : {
+        },
+        "Ink" : {
+        },
+        "Laser" : {
+        }
+      }
+    }
+  },
+  "SERVICES" : {
+    "WARRANTIES" : {
+      "ESS Products" : {
+        "3year" : {
+          "Next Day" : {
+          }
+        }
+      },
+      "IPG Products" : {
+        "1year" : {
+          "PW Next Day Onsite" : {
+          },
+          "PW Return" : {
+          }
+        },
+        "3year" : {
+          "Return to Depot" : {
+          },
+          "Next Day Exchange" : {
+          },
+          "Return" : {
+          },
+          "Next Day Onsite" : {
+          }
+        }
+      },
+      "PSG Products" : {
+        "2year" : {
+          "Pickup and Return" : {
+          }
+        }
+      }
+    }
+  },
+  "PLAYERS & PROJECTORS" : {
+    "ACCESSORIES" : {
+      "Projector Accessories" : {
+      }
+    },
+    "HARDWARE" : {
+      "Media Player" : {
+      },
+      "Projector" : {
+      }
+    }
+  },
+  "POWER DEVICES" : {
+    "POWER PROTECTION" : {
+      "UPS Energy Protectors" : {
+      },
+      "Surge Protectors" : {
+      }
+    },
+    "BATTERIES AND CHARGERS" : {
+      "Batteries" : {
+      },
+      "Alcaline Batteries" : {
+      },
+      "Battery Chargers" : {
+      },
+      "Rechargeable Batteries" : {
+      }
+    }
+  },
+  "SOFTWARE" : {
+    "Antivirus" : {
+    },
+    "Applications" : {
+    },
+    "Office" : {
+    },
+    "Operating Systems" : {
+    },
+    "Tools" : {
+    }
+  },
+  "IMAGING & PRINTING" : {
+    "PARTS" : {
+    },
+    "ACCESSORIES" : {
+      "Scanner Accessories" : {
+      },
+      "Printer Accessories" : {
+        "Large Format" : {
+        }
+      }
+    },
+    "HARDWARE" : {
+      "Scanner" : {
+        "Home & Office" : {
+          "Flatbed" : {
+            "A4" : {
+            }
+          },
+          "Flatbed with Film" : {
+            "A3" : {
+            }
+          }
+        },
+        "Digital Microfilm" : {
+        },
+        "Industrial" : {
+          "CCD Technology" : {
+            "42\" wide" : {
+            }
+          },
+          "CIS Technology" : {
+            "40\" wide" : {
+            }
+          },
+          "CAD/GIS" : {
+            "40\"" : {
+            }
+          }
+        },
+        "Office" : {
+          "Flatbed with Film" : {
+            "A4" : {
+            }
+          },
+          "High Speed Document" : {
+            "A4" : {
+            },
+            "A3" : {
+            }
+          }
+        }
+      },
+      "Copier" : {
+        "Analogue" : {
+          "Monochrome" : {
+          }
+        }
+      },
+      "Printer" : {
+        "Label Printer" : {
+        },
+        "Type Writer" : {
+        },
+        "Dotmatrix" : {
+        },
+        "Single Function Printer" : {
+          "Ink" : {
+            "Colour" : {
+            },
+            "Professional Photo" : {
+            },
+            "Photo" : {
+            }
+          },
+          "Laser" : {
+            "Colour" : {
+            },
+            "Monochrome" : {
+            }
+          }
+        },
+        "Large Format" : {
+          "Photography & Fine Art" : {
+          },
+          "Proofing" : {
+          },
+          "General Use" : {
+          },
+          "Production" : {
+          },
+          "CAD/GIS" : {
+          }
+        },
+        "Multifunction Printer" : {
+          "Ink" : {
+            "Colour" : {
+            },
+            "Photo" : {
+            }
+          },
+          "Laser" : {
+            "Colour" : {
+            },
+            "Monochrome" : {
+            },
+            "Digital Colour Printing" : {
+            }
+          }
+        }
+      }
+    },
+    "SUPPLIES" : {
+      "Paper" : {
+        "Large Format" : {
+        },
+        "Office" : {
+        },
+        "Photo" : {
+        }
+      },
+      "Drum" : {
+      },
+      "Ink" : {
+      },
+      "Ribbon" : {
+      },
+      "Film" : {
+      },
+      "Tonner" : {
+      },
+      "Developer" : {
+      }
+    }
+  },
+  "PHOTO-VIDEO" : {
+    "CAMERA ACCESSORIES" : {
+    },
+    "CAMERA" : {
+      "Film" : {
+        "35mm Compact" : {
+        },
+        "SLR" : {
+        }
+      },
+      "Digital" : {
+        "Compact" : {
+        },
+        "SLR" : {
+        }
+      }
+    },
+    "CAMCORDER" : {
+      "mini DV" : {
+      },
+      "High Definition" : {
+      },
+      "Flash Memory" : {
+      },
+      "Digital" : {
+      }
+    },
+    "CAMCORDER ACCESSORIES" : {
+    }
+  },
+  "COMPUTER ACCESSORIES" : {
+    "SPEAKERS & AUDIO" : {
+      "Earphones" : {
+      },
+      "Sounds Cards" : {
+      },
+      "PC and Home Speakers" : {
+      }
+    },
+    "COMMUNICATIONS" : {
+      "Webcams" : {
+      },
+      "Headsets" : {
+      },
+      "Speakerphone" : {
+      },
+      "Microphones" : {
+      }
+    },
+    "MICE & POINTERS" : {
+      "Trackballs" : {
+      },
+      "Gaming Mouse" : {
+      },
+      "Presentation Remote" : {
+      },
+      "Tablets" : {
+      },
+      "Wired Mice" : {
+      },
+      "Wireless Mice" : {
+      },
+      "Mouse Pad" : {
+      },
+      "Notebook Mouse" : {
+      }
+    },
+    "CONNECT" : {
+      "Bluetooth USB Adapters" : {
+      }
+    },
+    "KEYBOARDS" : {
+      "Number Pad" : {
+      },
+      "Desksets" : {
+      },
+      "Desksets for MAC" : {
+      },
+      "Keyboards" : {
+      }
+    },
+    "OTHER ACCESSORIES" : {
+    },
+    "GAME ACCESSORIES" : {
+      "Joysticks" : {
+      },
+      "PLAYSTATION Accessories" : {
+      },
+      "Other" : {
+      },
+      "Wheels" : {
+      },
+      "Gamepads" : {
+      }
+    }
+  }
+}

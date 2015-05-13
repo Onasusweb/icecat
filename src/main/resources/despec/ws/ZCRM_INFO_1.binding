@@ -1,0 +1,8 @@
+<jaxws:bindings xmlns:jaxws="http://java.sun.com/xml/ns/jaxws" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <jaxws:bindings node="wsdl:definitions/wsdl:portType[@name='ZCRM_INFO_1']">
+    <jaxws:class name="ZCRM_INFO_1_PortType" />
+  </jaxws:bindings>
+  <jaxws:bindings node="wsdl:definitions/wsdl:service[@name='ZCRM_INFO_1']">
+    <jaxws:class name="ZCRM_INFO_1_Service" />
+  </jaxws:bindings>
+</jaxws:bindings>
